@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.0.7",
-  "versionCode": 8,
-  "releaseTag": "sparktv-v1.0.7",
-  "releaseNotes": "Hourly channel alerts added",
+  "version": "1.0.8",
+  "versionCode": 9,
+  "releaseTag": "sparktv-v1.0.8",
+  "releaseNotes": "Channel notification icons fixed",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.0.7-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.7/SPARK-TV-1.0.7-arm64.apk",
-      "sha256": "556c1ae6ba4af8bf0315a518d43a42bb5de32c6e30e695f4470b9bc68b68d73a"
+      "name": "SPARK-TV-1.0.8-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.8/SPARK-TV-1.0.8-arm64.apk",
+      "sha256": "0d63c428a9aed033de8dc080c747e9f5454701661f8149fcc16cb3be3311631a"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.0.7-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.7/SPARK-TV-1.0.7-armv7.apk",
-      "sha256": "074a32fbf3b065cac1a53071e7ee25a68e81c0101546cffba51967c302f066df"
+      "name": "SPARK-TV-1.0.8-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.8/SPARK-TV-1.0.8-armv7.apk",
+      "sha256": "87e55ef5050699aec2d9d4782ab77f3a946698e7448b1c51ee9b6a7616279ff6"
     }
   }
 }
