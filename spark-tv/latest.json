@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.0.2",
-  "versionCode": 3,
-  "releaseTag": "sparktv-v1.0.2",
-  "releaseNotes": "SPARK TV 1.0.2 is available.",
+  "version": "1.0.3",
+  "versionCode": 4,
+  "releaseTag": "sparktv-v1.0.3",
+  "releaseNotes": "Adds UK/US channel directories, Home movie and series shelves, and a one-time new-channels announcement.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.0.2-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.2/SPARK-TV-1.0.2-arm64.apk",
-      "sha256": "747131ff0d333649b1f74373b39a74dc717e481ceca81210dc8cb6566b1f7125"
+      "name": "SPARK-TV-1.0.3-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.3/SPARK-TV-1.0.3-arm64.apk",
+      "sha256": "91791d68b9ce892c69fd40eed09104eb8e7c4dd0968937b5d352643bcb88ec1a"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.0.2-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.2/SPARK-TV-1.0.2-armv7.apk",
-      "sha256": "cef8c80aea4f489be2cb49c3b4a08638e390d062a569a6b70841bdc582ecf0f0"
+      "name": "SPARK-TV-1.0.3-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.3/SPARK-TV-1.0.3-armv7.apk",
+      "sha256": "f8a6ec0a955aef65f77e6d230b4ee5fe5af106b80dcb0376953e9b093b9907be"
     }
   }
 }
