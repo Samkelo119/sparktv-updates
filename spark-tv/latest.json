@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.0.4",
-  "versionCode": 5,
-  "releaseTag": "sparktv-v1.0.4",
-  "releaseNotes": "SPARK TV 1.0.4 is available.",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "releaseTag": "sparktv-v1.0.5",
+  "releaseNotes": "NEW FRESH UI ADDED",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.0.4-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.4/SPARK-TV-1.0.4-arm64.apk",
-      "sha256": "931c39196ed8490a7d05dbb7680b950920c4938e994be26a7e490f71ed6158c1"
+      "name": "SPARK-TV-1.0.5-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.5/SPARK-TV-1.0.5-arm64.apk",
+      "sha256": "ba93169390876342281f82515818221161c41461c8b5bc9a159c238373ffe941"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.0.4-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.4/SPARK-TV-1.0.4-armv7.apk",
-      "sha256": "b34e2317250496ee13572badd4ccbd82b01778d136ea343721f30b584c4109ab"
+      "name": "SPARK-TV-1.0.5-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.5/SPARK-TV-1.0.5-armv7.apk",
+      "sha256": "203662e8f54cc6a66786a2b44a64464ca3c285d1f1dfc614808adf7af8c36e29"
     }
   }
 }
