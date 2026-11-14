@@ -1,0 +1,20 @@
+{
+  "app": "SPARK TV",
+  "packageId": "com.sparktv.mrdiehard",
+  "version": "1.0.2",
+  "versionCode": 3,
+  "releaseTag": "sparktv-v1.0.2",
+  "releaseNotes": "SPARK TV 1.0.2 is available.",
+  "assets": {
+    "arm64-v8a": {
+      "name": "SPARK-TV-1.0.2-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.2/SPARK-TV-1.0.2-arm64.apk",
+      "sha256": "747131ff0d333649b1f74373b39a74dc717e481ceca81210dc8cb6566b1f7125"
+    },
+    "armeabi-v7a": {
+      "name": "SPARK-TV-1.0.2-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.2/SPARK-TV-1.0.2-armv7.apk",
+      "sha256": "cef8c80aea4f489be2cb49c3b4a08638e390d062a569a6b70841bdc582ecf0f0"
+    }
+  }
+}
