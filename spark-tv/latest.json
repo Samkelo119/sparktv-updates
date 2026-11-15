@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.1.1",
-  "versionCode": 12,
-  "releaseTag": "sparktv-v1.1.1",
-  "releaseNotes": "SPARK TV 1.1.1 adds cached South Africa XMLTV current-programme data for safely matched channels; unmatched channels show No Data. Also includes persistent themes and the rotating Home spotlight. The APK points to the live EPG API. Android requires its standard install confirmation; EAS OTA is not active yet.",
+  "version": "1.1.2",
+  "versionCode": 13,
+  "releaseTag": "sparktv-v1.1.2",
+  "releaseNotes": "SPARK TV 1.1.2 (versionCode 13) adds verified India channels with icons, an iSportsAPI Sports Match Centre with real team and league logos plus live scores and countdowns, and programme titles in NOW PLAYING. The APKs use the production backend and are split for arm64-v8a and armeabi-v7a. Android displays its standard install confirmation.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.1.1-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.1/SPARK-TV-1.1.1-arm64.apk",
-      "sha256": "c69e34c604ca4319ec0242249f5a41e9efd6c14448afca07dbb40b19bb86bade"
+      "name": "SPARK-TV-1.1.2-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.2/SPARK-TV-1.1.2-arm64.apk",
+      "sha256": "10cec118c53847ec57cf168d7f373b2e3ba29614ecb12c7b5bf95efb4d383358"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.1.1-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.1/SPARK-TV-1.1.1-armv7.apk",
-      "sha256": "c0190efc2aa6544ace7cad738abac1a8bd063c32c7a7e91cff928a8ca43c9718"
+      "name": "SPARK-TV-1.1.2-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.2/SPARK-TV-1.1.2-armv7.apk",
+      "sha256": "9bbd3319ab2515ae02cf8cea46b763994d624887b91784dedb7ae68a57563dc0"
     }
   }
 }
