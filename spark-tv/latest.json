@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.1.0",
-  "versionCode": 11,
-  "releaseTag": "sparktv-v1.1.0",
-  "releaseNotes": "Home screen now spotlights playable channels with their logos, rotating every minute.",
+  "version": "1.1.1",
+  "versionCode": 12,
+  "releaseTag": "sparktv-v1.1.1",
+  "releaseNotes": "SPARK TV 1.1.1 adds cached South Africa XMLTV current-programme data for safely matched channels; unmatched channels show No Data. Also includes persistent themes and the rotating Home spotlight. The APK points to the live EPG API. Android requires its standard install confirmation; EAS OTA is not active yet.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.1.0-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.0/SPARK-TV-1.1.0-arm64.apk",
-      "sha256": "1890b2ad09896d579ce8388e174ea5545f5c600753b4bf40310a059b16a90440"
+      "name": "SPARK-TV-1.1.1-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.1/SPARK-TV-1.1.1-arm64.apk",
+      "sha256": "c69e34c604ca4319ec0242249f5a41e9efd6c14448afca07dbb40b19bb86bade"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.1.0-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.0/SPARK-TV-1.1.0-armv7.apk",
-      "sha256": "ca214138ee6700d84c86e83b90576e7612c588347a07579b34f412ed1f3cfaca"
+      "name": "SPARK-TV-1.1.1-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.1/SPARK-TV-1.1.1-armv7.apk",
+      "sha256": "c0190efc2aa6544ace7cad738abac1a8bd063c32c7a7e91cff928a8ca43c9718"
     }
   }
 }
