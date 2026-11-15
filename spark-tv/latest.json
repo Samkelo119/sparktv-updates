@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.0.9",
-  "versionCode": 10,
-  "releaseTag": "sparktv-v1.0.9",
-  "releaseNotes": "Owner-help popup added with a direct WhatsApp contact.",
+  "version": "1.1.0",
+  "versionCode": 11,
+  "releaseTag": "sparktv-v1.1.0",
+  "releaseNotes": "Home screen now spotlights playable channels with their logos, rotating every minute.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.0.9-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.9/SPARK-TV-1.0.9-arm64.apk",
-      "sha256": "afd90d3c66bcc5bc3dcb36bddc90586c9588b878a134957c9e173604202db0b4"
+      "name": "SPARK-TV-1.1.0-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.0/SPARK-TV-1.1.0-arm64.apk",
+      "sha256": "1890b2ad09896d579ce8388e174ea5545f5c600753b4bf40310a059b16a90440"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.0.9-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.0.9/SPARK-TV-1.0.9-armv7.apk",
-      "sha256": "3bcc55b24af7d57e92205085ed0a1343a4d8fa90e976caf0d70b62e0cd7bcd66"
+      "name": "SPARK-TV-1.1.0-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.0/SPARK-TV-1.1.0-armv7.apk",
+      "sha256": "ca214138ee6700d84c86e83b90576e7612c588347a07579b34f412ed1f3cfaca"
     }
   }
 }
