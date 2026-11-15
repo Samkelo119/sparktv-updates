@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.1.3",
-  "versionCode": 14,
-  "releaseTag": "sparktv-v1.1.3",
-  "releaseNotes": "SPARK TV 1.1.3 (versionCode 14): refreshed live-first Home and Sports preview, with the supplied SPARK TV background on Home, LIVE and Settings. Uses the production backend. Additional direct HLS streams from the request are not included because redistribution authorization could not be verified; no match-to-channel playback is claimed.",
+  "version": "1.1.4",
+  "versionCode": 15,
+  "releaseTag": "sparktv-v1.1.4",
+  "releaseNotes": "SPARK TV 1.1.4 Android APK update. The in-app updater selects the ARM64 or ARMv7 package. Android displays its standard install confirmation.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.1.3-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.3/SPARK-TV-1.1.3-arm64.apk",
-      "sha256": "a12613cc246ffa5f93ab9364678f4f0d62ee482b779703c2a0f81aa945c2f40f"
+      "name": "SPARK-TV-1.1.4-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.4/SPARK-TV-1.1.4-arm64.apk",
+      "sha256": "aab5f8e3357aca76579b69a0feaf58e15a025fd2de5b1f5b2b025582ed41d0b1"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.1.3-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.3/SPARK-TV-1.1.3-armv7.apk",
-      "sha256": "ae613a3ce5be7b299126c1bbbf83558f8d12de0b966b42e641bc75a22bce2ba7"
+      "name": "SPARK-TV-1.1.4-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.4/SPARK-TV-1.1.4-armv7.apk",
+      "sha256": "e3a96ad6a930ab0aa4bb2f027c455223a9873b7a255f71c96c8ecbca29112d9c"
     }
   }
 }
