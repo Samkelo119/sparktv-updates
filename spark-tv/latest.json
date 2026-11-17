@@ -7,13 +7,13 @@
   "releaseNotes": "3,178 channels and 4,951 streams across India, Germany, France, Australia, the United Kingdom, the United States, Spain, Mongolia, and unassigned channels. India import is user-requested and not rights-cleared.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.1.8-universal.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-universal.apk",
+      "name": "SPARK-TV-1.1.8-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-arm64.apk",
       "sha256": "759890201fd788e3df491be2fa15e26adbcb15d08fd8173afda17a2d4bd6a6f1"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.1.8-universal.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-universal.apk",
+      "name": "SPARK-TV-1.1.8-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-armv7.apk",
       "sha256": "759890201fd788e3df491be2fa15e26adbcb15d08fd8173afda17a2d4bd6a6f1"
     }
   },
