@@ -1,25 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.1.8",
-  "versionCode": 19,
-  "releaseTag": "sparktv-v1.1.8",
-  "releaseNotes": "3,178 channels and 4,951 streams across India, Germany, France, Australia, the United Kingdom, the United States, Spain, Mongolia, and unassigned channels. India import is user-requested and not rights-cleared.",
+  "version": "1.1.9",
+  "versionCode": 20,
+  "releaseTag": "sparktv-v1.1.9",
+  "releaseNotes": "Adds six technically validated country-channel entries. Sports kick-off clocks now use SAST (Africa/Johannesburg). Includes independent team/league search and current-season fixtures up to 365 days where provider data is available. IMPORTANT: directory search and future schedules require matching SPARK TV backend routes to be deployed; those features may show as unavailable until the backend update is live. Includes ARM64 and ARMv7 sideload APKs; Android requires user approval to install.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.1.8-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-arm64.apk",
-      "sha256": "759890201fd788e3df491be2fa15e26adbcb15d08fd8173afda17a2d4bd6a6f1"
+      "name": "SPARK-TV-1.1.9-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.9/SPARK-TV-1.1.9-arm64.apk",
+      "sha256": "4f246ceb7cb5ce640654099f978adc482cea0c9b61eb0bf571d49e237a5c2bd2"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.1.8-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-armv7.apk",
-      "sha256": "759890201fd788e3df491be2fa15e26adbcb15d08fd8173afda17a2d4bd6a6f1"
+      "name": "SPARK-TV-1.1.9-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.9/SPARK-TV-1.1.9-armv7.apk",
+      "sha256": "cc5ace9e1208be33e0868b87cfc127d1b118fe71dbf2b2bfe93dc2459506874e"
     }
-  },
-  "sourceArchive": {
-    "name": "SPARK-TV-v1.1.8-3178-channel-source.zip",
-    "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-v1.1.8-3178-channel-source.zip",
-    "sha256": "3ecea32c190a68e7d68f60281742819c0358355182ef77c3c16285e881a80b4a"
   }
 }
