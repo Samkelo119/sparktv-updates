@@ -1,20 +1,25 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.1.7",
-  "versionCode": 18,
-  "releaseTag": "sparktv-v1.1.7",
-  "releaseNotes": "311 channels and 315 stream sources, with supplied logo mappings and country catalog entries.",
+  "version": "1.1.8",
+  "versionCode": 19,
+  "releaseTag": "sparktv-v1.1.8",
+  "releaseNotes": "3,178 channels and 4,951 streams across India, Germany, France, Australia, the United Kingdom, the United States, Spain, Mongolia, and unassigned channels. India import is user-requested and not rights-cleared.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.1.7-universal.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.7/SPARK-TV-1.1.7-universal.apk",
-      "sha256": "0b5a378707219fe7d48659103d62905bb48d5d115452558a444c7a5161ff3be7"
+      "name": "SPARK-TV-1.1.8-universal.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-universal.apk",
+      "sha256": "759890201fd788e3df491be2fa15e26adbcb15d08fd8173afda17a2d4bd6a6f1"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.1.7-universal.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.7/SPARK-TV-1.1.7-universal.apk",
-      "sha256": "0b5a378707219fe7d48659103d62905bb48d5d115452558a444c7a5161ff3be7"
+      "name": "SPARK-TV-1.1.8-universal.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-1.1.8-universal.apk",
+      "sha256": "759890201fd788e3df491be2fa15e26adbcb15d08fd8173afda17a2d4bd6a6f1"
     }
+  },
+  "sourceArchive": {
+    "name": "SPARK-TV-v1.1.8-3178-channel-source.zip",
+    "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.1.8/SPARK-TV-v1.1.8-3178-channel-source.zip",
+    "sha256": "3ecea32c190a68e7d68f60281742819c0358355182ef77c3c16285e881a80b4a"
   }
 }
