@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.2.2",
-  "versionCode": 23,
-  "releaseTag": "sparktv-v1.2.2",
-  "releaseNotes": "SPARK TV v1.2.2 (versionCode 23): adds direct Sports and Movies tabs; keeps Home watch-only; retains SPARK SPORTS fixtures, search, standings and SAST display; adds KIX Hong Kong to the Live Guide with its logo (catalog listing only; playback awaits an authorized stream); includes movie discovery, search and details. OMDb supplies metadata, not movie streams.",
+  "version": "1.2.3",
+  "versionCode": 24,
+  "releaseTag": "sparktv-v1.2.3",
+  "releaseNotes": "SPARK TV v1.2.3 (versionCode 24) fixes Firebase Email and Google sign-in persistence by replacing SecureStore key names that Android rejects. Sports, Movies, Home and channel behavior are unchanged.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.2.2-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.2/SPARK-TV-1.2.2-arm64.apk",
-      "sha256": "6d96394307d236a9adeb0e148af79fe68fa638e48c5689483ef577190c06df53"
+      "name": "SPARK-TV-1.2.3-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.3/SPARK-TV-1.2.3-arm64.apk",
+      "sha256": "ebce30863f960ccabb4b6994ca37978e3750d2c93ede5b6fb72220eb76132784"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.2.2-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.2/SPARK-TV-1.2.2-armv7.apk",
-      "sha256": "6c2b2ad87705da645b15e06855d021b43e8f61dcc678da4c995a01e43abc5a42"
+      "name": "SPARK-TV-1.2.3-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.3/SPARK-TV-1.2.3-armv7.apk",
+      "sha256": "ae941ec69ef4909c7217a257d7b7148349dd86cd5a891b4661b2f715844c9c9e"
     }
   }
 }
