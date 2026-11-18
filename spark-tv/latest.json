@@ -1,20 +1,20 @@
 {
   "app": "SPARK TV",
   "packageId": "com.sparktv.mrdiehard",
-  "version": "1.2.3",
-  "versionCode": 24,
-  "releaseTag": "sparktv-v1.2.3",
-  "releaseNotes": "SPARK TV v1.2.3 (versionCode 24) fixes Firebase Email and Google sign-in persistence by replacing SecureStore key names that Android rejects. Sports, Movies, Home and channel behavior are unchanged.",
+  "version": "1.2.4",
+  "versionCode": 25,
+  "releaseTag": "sparktv-v1.2.4",
+  "releaseNotes": "Requires sign-in before any app content is accessible. Adds numeric email verification codes sent via Gmail and phone-number sign-in with SMS codes. Preserves SPARK TV branding and existing Sports and Movies features. Adds KIX (Hong Kong) as a catalog-only listing; playback remains disabled pending verified stream authorization.",
   "assets": {
     "arm64-v8a": {
-      "name": "SPARK-TV-1.2.3-arm64.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.3/SPARK-TV-1.2.3-arm64.apk",
-      "sha256": "ebce30863f960ccabb4b6994ca37978e3750d2c93ede5b6fb72220eb76132784"
+      "name": "SPARK-TV-1.2.4-arm64.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.4/SPARK-TV-1.2.4-arm64.apk",
+      "sha256": "e57bf883017611bec03391db3c90c504e97c12074cd2804aef3bdd70e89d23df"
     },
     "armeabi-v7a": {
-      "name": "SPARK-TV-1.2.3-armv7.apk",
-      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.3/SPARK-TV-1.2.3-armv7.apk",
-      "sha256": "ae941ec69ef4909c7217a257d7b7148349dd86cd5a891b4661b2f715844c9c9e"
+      "name": "SPARK-TV-1.2.4-armv7.apk",
+      "url": "https://github.com/Samkelo119/sparktv-updates/releases/download/sparktv-v1.2.4/SPARK-TV-1.2.4-armv7.apk",
+      "sha256": "748faa5dd01a046a0a7d90e0d363cda873471c928c6c047aee65fae0b2737299"
     }
   }
 }
